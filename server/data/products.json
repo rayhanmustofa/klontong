@@ -1,0 +1,123 @@
+[
+    {
+      "sku": "ABC123",
+      "name": "Product 1",
+      "description": "Description of Product 1",
+      "weight": 500,
+      "width": 5,
+      "length": 5,
+      "height": 5,
+      "image": "https://i.ibb.co/nLyN1cd/Capture.png",
+      "price": 1999,
+      "CategoryId": 1
+    },
+    {
+      "sku": "DEF456",
+      "name": "Product 2",
+      "description": "Description of Product 2",
+      "weight": 600,
+      "width": 6,
+      "length": 6,
+      "height": 6,
+      "image": "https://i.ibb.co/nLyN1cd/Capture.png",
+      "price": 2499,
+      "CategoryId": 2
+    },
+    {
+      "sku": "GHI789",
+      "name": "Product 3",
+      "description": "Description of Product 3",
+      "weight": 700,
+      "width": 7,
+      "length": 7,
+      "height": 7,
+      "image": "https://i.ibb.co/nLyN1cd/Capture.png",
+      "price": 2999,
+      "CategoryId": 3
+    },
+    {
+      "sku": "JKL012",
+      "name": "Product 4",
+      "description": "Description of Product 4",
+      "weight": 800,
+      "width": 8,
+      "length": 8,
+      "height": 8,
+      "image": "https://i.ibb.co/nLyN1cd/Capture.png",
+      "price": 3499,
+      "CategoryId": 4
+    },
+    {
+      "sku": "MNO345",
+      "name": "Product 5",
+      "description": "Description of Product 5",
+      "weight": 900,
+      "width": 9,
+      "length": 9,
+      "height": 9,
+      "image": "https://i.ibb.co/nLyN1cd/Capture.png",
+      "price": 3999,
+      "CategoryId": 1
+    },
+    {
+      "sku": "PQR678",
+      "name": "Product 6",
+      "description": "Description of Product 6",
+      "weight": 1000,
+      "width": 10,
+      "length": 10,
+      "height": 10,
+      "image": "https://i.ibb.co/nLyN1cd/Capture.png",
+      "price": 4499,
+      "CategoryId": 1
+    },
+    {
+      "sku": "STU901",
+      "name": "Product 7",
+      "description": "Description of Product 7",
+      "weight": 1100,
+      "width": 11,
+      "length": 11,
+      "height": 11,
+      "image": "https://i.ibb.co/nLyN1cd/Capture.png",
+      "price": 4999,
+      "CategoryId": 2
+    },
+    {
+      "sku": "VWX234",
+      "name": "Product 8",
+      "description": "Description of Product 8",
+      "weight": 1200,
+      "width": 12,
+      "length": 12,
+      "height": 12,
+      "image": "https://i.ibb.co/nLyN1cd/Capture.png",
+      "price": 5499,
+      "CategoryId": 3
+    },
+    {
+      "sku": "YZA567",
+      "name": "Product 9",
+      "description": "Description of Product 9",
+      "weight": 1300,
+      "width": 13,
+      "length": 13,
+      "height": 13,
+      "image": "https://i.ibb.co/nLyN1cd/Capture.png",
+      "price": 5999,
+      "CategoryId": 4
+    },
+    {
+      "sku": "BCD890",
+      "name": "Product 10",
+      "description": "Description of Product 10",
+      "weight": 1400,
+      "width": 14,
+      "length": 14,
+      "height": 14,
+      "image": "https://i.ibb.co/nLyN1cd/Capture.png",
+      "price": 6499,
+      "CategoryId": 2
+    }
+  ]
+  
